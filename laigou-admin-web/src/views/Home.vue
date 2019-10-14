@@ -75,7 +75,7 @@
 	export default {
 		data() {
 			return {
-				sysName:'来购商城后台管理',
+				sysName:'爱购商城后台管理',
 				collapsed:false,
 				sysUserName: '',
 				sysUserAvatar: '',
@@ -129,7 +129,7 @@
 			var user = sessionStorage.getItem('user');
 			if (user) {
 				user = JSON.parse(user);
-				this.sysUserName = user.name || '';
+				this.sysUserName = user.username || '';
 				this.sysUserAvatar = user.avatar || '';
 			}
 
