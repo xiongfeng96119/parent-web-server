@@ -35,14 +35,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\ecommerce\static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\laigou-admin-web" />
       <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\laigou-admin-web\src" />
       <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\laigou-admin-web\src\views" />
       <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\laigou-admin-web\src\views\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\IdeaProjects\parent-web-server\ecommerce\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +80,10 @@
       <workItem from="1571000139159" duration="3245000" />
       <workItem from="1571049708559" duration="6195000" />
       <workItem from="1571078948243" duration="360000" />
-      <workItem from="1571079547774" duration="211000" />
+      <workItem from="1571079547774" duration="799000" />
+      <workItem from="1571105635388" duration="4116000" />
+      <workItem from="1571136554366" duration="3914000" />
+      <workItem from="1571190657019" duration="4536000" />
     </task>
     <servers />
   </component>
